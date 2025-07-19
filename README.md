@@ -1,4 +1,4 @@
-# 📘 Adhira_api_assignment
+# Adhira_api_assignment
 
 This is a Django REST Framework-based backend that provides APIs for managing **Bogie Checksheets** and **Wheel Specifications**. It uses **MySQL** as the database and supports filtering capabilities for efficient data retrieval.
 
